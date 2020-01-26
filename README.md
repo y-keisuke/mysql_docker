@@ -4,9 +4,10 @@ Docker(docker-composer)でmysqlを使う！
 
 手順
 1. `git clone https://github.com/y-keisuke/mysql_docker.git`
-2. `docker-compose up -d`
-3. `docker-compose ps`で確認
-4. このディレクトリで`init-mysql.sh`  
+2. このディレクトリ移動
+3. `docker-compose up -d`
+4. `docker-compose ps`で確認
+5. `init-mysql.sh`  
 
 サーバーへログイン
 ```
