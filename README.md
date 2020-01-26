@@ -17,3 +17,8 @@ password
 ```
 root
 ```
+
+phpmyadmin
+```$xslt
+http://localhost:8080/
+```
